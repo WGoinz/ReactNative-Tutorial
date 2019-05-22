@@ -8,6 +8,7 @@
     "clean-install": "rm -rf node_modules/ package-lock.json && yarn"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "react": "16.8.3",
     "react-native": "0.59.8"
   },
